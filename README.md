@@ -5,5 +5,4 @@ Each change can be tracked using Git.
 I can commit changes after saving the file.
 I can push commits to GitHub.
 I am learning step by step.
-Practice on feature branch teaches me how to resolve conflicts better new changed for 2.
-Line added from feature branch
+Practice teaches me how merges break and how to resolve conflicts.Line added from feature branch
