@@ -6,4 +6,4 @@ I can commit changes after saving the file.
 I can push commits to GitHub.
 I am learning step by step.
 Practice teaches me how merges break and how to resolve conflicts.
-Line added from feature branch
+Line added from feature branch..
