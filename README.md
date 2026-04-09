@@ -5,4 +5,5 @@ Each change can be tracked using Git.
 I can commit changes after saving the file.
 I can push commits to GitHub.
 I am learning step by step.
-Practice is making the workflow clear.
+Practice on main teaches me how merges break.
+Line added from feature branch
