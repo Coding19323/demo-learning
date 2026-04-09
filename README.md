@@ -7,3 +7,4 @@ I can push commits to GitHub.
 I am learning step by step.
 Practice teaches me how merges break and how to resolve conflicts.
 Line added from feature branch..
+Local change before remote conflict.
