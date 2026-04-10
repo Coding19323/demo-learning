@@ -10,4 +10,4 @@ Line added from feature branch
 Local change before remote conflict.
 Remote change made on GitHub website.
 
-Task 1 change from feature changed more in this
+Task 1 change made and merged conflict error 
