@@ -9,3 +9,5 @@ Practice teaches me how merges break and how to resolve conflicts.
 Line added from feature branch
 Local change before remote conflict.
 Remote change made on GitHub website.
+
+Task 1 change from feature branch.
